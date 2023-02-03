@@ -8,4 +8,4 @@
 - Happy to collaborate 👥👥👥
 - How to reach me: carl.manley.berlin@gmail.com 📫 
 - ⚡ Fun fact: I am a pianist 🎹
-Thank you for visiting!
+-Thank you for visiting!

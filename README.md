@@ -1,6 +1,6 @@
 - Welcome to the GitHub of Carl Manley 🙋🏼‍♂️
 - Pronouns: He/Him/They 😄
-- Training to be a Full-Stack 🌱
+- Training 🌱 to be a Full-Stack 
   Developer💻 at Code Academy Berlin 🏢
 - I enjoy all things creative 🎨
 - I am passionate to learn ✍🏻
@@ -8,4 +8,4 @@
 - Happy to collaborate 👥👥👥
 - How to reach me: carl.manley.berlin@gmail.com 📫 
 - ⚡ Fun fact: I am a pianist 🎹
--Thank you for visiting!
+/Thank you for visiting!
